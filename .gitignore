@@ -1,0 +1,4 @@
+*.pyc
+debug.eml
+ical-seminar-event.ics
+.DS*

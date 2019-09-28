@@ -1,0 +1,15 @@
+series: "Series"
+name: Guest Name
+title: Guest Title
+affiliation: "Guest Affiliation"
+topic: "Talk Title"
+abstract: |
+        Talk abstract.
+        Another line of talk abstract
+bio: |
+        Guest bio
+date: Date
+time: Time
+room: Toom
+image: images/sample-image-make-sure-it-is-under-30kb.jpg
+

@@ -1,0 +1,1 @@
+SCIS Seminar: @@NAME@@ on @@DATE@@ at @@TIME@@ in @@ROOM@@
